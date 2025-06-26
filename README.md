@@ -1,5 +1,7 @@
 # Jerusalem Shelter Finder
 
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/danielrosehill/Shelter-Finder-Jerusalem/releases/download/V1/app-debug.apk)
+
 **⚠️ IMPORTANT: This is a NON-OFFICIAL application ⚠️**
 
 This Android application helps users find nearby emergency shelters in Jerusalem. The shelter data was collected from Jerusalem Municipality public records in early June 2025. While efforts have been made to ensure accuracy, this app should not be considered an official source of emergency information.
