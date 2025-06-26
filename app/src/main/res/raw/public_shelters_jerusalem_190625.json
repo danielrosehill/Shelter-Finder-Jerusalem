@@ -1,0 +1,5145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.215791827115616,
+          31.777267365823803
+        ]
+      },
+      "properties": {
+        "name": "Beit Avichai",
+        "address": "King George 44",
+        "id": 601,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "King George 44",
+        "full_address": "King George 44, Jerusalem, Israel",
+        "original_id": 33943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.209708247427,
+          31.750919531149275
+        ]
+      },
+      "properties": {
+        "name": "Beit Banit",
+        "address": "Hauman 14",
+        "id": 602,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Hauman 14",
+        "full_address": "Hauman 14, Jerusalem, Israel",
+        "original_id": 33944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20028136091587,
+          31.79133351411927
+        ]
+      },
+      "properties": {
+        "name": "Beit Yahav",
+        "address": "Yeremiah 80",
+        "id": 603,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Yeremiah 80",
+        "full_address": "Yeremiah 80, Jerusalem, Israel",
+        "original_id": 33945
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21517978975263,
+          31.784212712816448
+        ]
+      },
+      "properties": {
+        "name": "Clal Building",
+        "address": "Jaffa 97 /Agripas 42",
+        "id": 604,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Jaffa 97 /Agripas 42",
+        "full_address": "Jaffa 97 /Agripas 42, Jerusalem, Israel",
+        "original_id": 33946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18600107453311,
+          31.750026940030864
+        ]
+      },
+      "properties": {
+        "name": "Technology Park 4",
+        "address": "The Technological Park, Hapoel Sports Association 2 Road",
+        "id": 605,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "The Technological Park, Hapoel Sports Association 2 Road",
+        "full_address": "The Technological Park, Hapoel Sports Association 2 Road, Jerusalem, Israel",
+        "original_id": 33947
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.185990347427136,
+          31.750036063320643
+        ]
+      },
+      "properties": {
+        "name": "Technology Park Building 1-2 -Hamigdal Building",
+        "address": "Hapoel 2 Association",
+        "id": 606,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Hapoel 2 Association",
+        "full_address": "Hapoel 2 Association, Jerusalem, Israel",
+        "original_id": 33948
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.186011803368515,
+          31.750063433170816
+        ]
+      },
+      "properties": {
+        "name": "Technology Park Building 5",
+        "address": "The Technological Park, Hapoel Sports Association 2 Road",
+        "id": 607,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "The Technological Park, Hapoel Sports Association 2 Road",
+        "full_address": "The Technological Park, Hapoel Sports Association 2 Road, Jerusalem, Israel",
+        "original_id": 33949
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1866391712211,
+          31.749565159736868
+        ]
+      },
+      "properties": {
+        "name": "Technology Park Buildings 8-9",
+        "address": "The Technological Park, Hapoel Sports Association 2 Road, Jerusalem",
+        "id": 608,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "The Technological Park, Hapoel Sports Association 2 Road, Jerusalem",
+        "full_address": "The Technological Park, Hapoel Sports Association 2 Road, Jerusalem, Jerusalem, Israel",
+        "original_id": 33950
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20335428235088,
+          31.78955542912993
+        ]
+      },
+      "properties": {
+        "name": "Central Bus Station",
+        "address": "Jaffa 224",
+        "id": 609,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Jaffa 224",
+        "full_address": "Jaffa 224, Jerusalem, Israel",
+        "original_id": 33951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21431678380738,
+          31.78433562250371
+        ]
+      },
+      "properties": {
+        "name": "Windows of Jerusalem",
+        "address": "Agripas 40",
+        "id": 610,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Agripas 40",
+        "full_address": "Agripas 40, Jerusalem, Israel",
+        "original_id": 33952
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.223090674532564,
+          31.766769128676646
+        ]
+      },
+      "properties": {
+        "name": "Orient Parking Lot",
+        "address": "Emek Refaim 3",
+        "id": 611,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Emek Refaim 3",
+        "full_address": "Emek Refaim 3, Jerusalem, Israel",
+        "original_id": 33955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18123848975243,
+          31.787355186040934
+        ]
+      },
+      "properties": {
+        "name": "Oranim Parking Lot",
+        "address": "Kanfei Nesharim 66",
+        "id": 612,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Kanfei Nesharim 66",
+        "full_address": "Kanfei Nesharim 66, Jerusalem, Israel",
+        "original_id": 33956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.188391874532066,
+          31.78660704819047
+        ]
+      },
+      "properties": {
+        "name": "Beit El-Shanhav Parking Lot",
+        "address": "The Printing House 12",
+        "id": 613,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "The Printing House 12",
+        "full_address": "The Printing House 12, Jerusalem, Israel",
+        "original_id": 33958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20231020336738,
+          31.786512987782356
+        ]
+      },
+      "properties": {
+        "name": "Binyanei Hauma Parking Lot",
+        "address": "Shazar Blvd. 1",
+        "id": 614,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Shazar Blvd. 1",
+        "full_address": "Shazar Blvd. 1, Jerusalem, Israel",
+        "original_id": 33959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22271962883541,
+          31.782268982537506
+        ]
+      },
+      "properties": {
+        "name": "Bezalel Parking Lot",
+        "address": "Zmora 1, Jerusalem",
+        "id": 615,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Zmora 1, Jerusalem",
+        "full_address": "Zmora 1, Jerusalem, Jerusalem, Israel",
+        "original_id": 33960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.208925218991325,
+          31.80004470123445
+        ]
+      },
+      "properties": {
+        "name": "Golda (Mobilay) Parking Lot",
+        "address": "Golda Meir Blvd. West of Shlomo Halevi St.",
+        "id": 616,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Golda Meir Blvd. West of Shlomo Halevi St.",
+        "full_address": "Golda Meir Blvd. West of Shlomo Halevi St., Jerusalem, Israel",
+        "original_id": 33962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19070503220292,
+          31.78218805785295
+        ]
+      },
+      "properties": {
+        "name": "Dovid Yellin Parking Lot",
+        "address": "Beit Midrash Circle 7",
+        "id": 617,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Beit Midrash Circle 7",
+        "full_address": "Beit Midrash Circle 7, Jerusalem, Israel",
+        "original_id": 33964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18618533469712,
+          31.786671909279008
+        ]
+      },
+      "properties": {
+        "name": "Dona Parking Lot",
+        "address": "The Printing House 20",
+        "id": 618,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "The Printing House 20",
+        "full_address": "The Printing House 20, Jerusalem, Israel",
+        "original_id": 33965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21644583582216,
+          31.767992007875165
+        ]
+      },
+      "properties": {
+        "name": "Hateatron Parking Lot",
+        "address": "Prof. Yaakov Shaskin",
+        "id": 619,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Prof. Yaakov Shaskin",
+        "full_address": "Prof. Yaakov Shaskin, Jerusalem, Israel",
+        "original_id": 33967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21467974569667,
+          31.785042490828918
+        ]
+      },
+      "properties": {
+        "name": "Tower 1 Parking Lot",
+        "address": "Ki''h Corner Jaffa",
+        "id": 620,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Ki''h Corner Jaffa",
+        "full_address": "Ki''h Corner Jaffa, Jerusalem, Israel",
+        "original_id": 33969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20231673220263,
+          31.790820121010785
+        ]
+      },
+      "properties": {
+        "name": "Yad Sara Parking Lot",
+        "address": "Yeremiah 35",
+        "id": 621,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Yeremiah 35",
+        "full_address": "Yeremiah 35, Jerusalem, Israel",
+        "original_id": 33971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.225698834350005,
+          31.76246559850152
+        ]
+      },
+      "properties": {
+        "name": "Yes Planet Parking Lot",
+        "address": "Naomi 4",
+        "id": 622,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Naomi 4",
+        "full_address": "Naomi 4, Jerusalem, Israel",
+        "original_id": 33972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.204495445696566,
+          31.78375589349424
+        ]
+      },
+      "properties": {
+        "name": "Visitor Parking Lot The State",
+        "address": "State Comptroller 2",
+        "id": 623,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "State Comptroller 2",
+        "full_address": "State Comptroller 2, Jerusalem, Israel",
+        "original_id": 33974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18086268802584,
+          31.78669686771139
+        ]
+      },
+      "properties": {
+        "name": "Eagles Tower Parking Lot",
+        "address": "Printing House 32",
+        "id": 624,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Printing House 32",
+        "full_address": "Printing House 32, Jerusalem, Israel",
+        "original_id": 33975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20215290336726,
+          31.79087479802377
+        ]
+      },
+      "properties": {
+        "name": "Beer Towers Parking Lot",
+        "address": "Yeremiah 39",
+        "id": 625,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Yeremiah 39",
+        "full_address": "Yeremiah 39, Jerusalem, Israel",
+        "original_id": 33976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21948340521556,
+          31.78027286168596
+        ]
+      },
+      "properties": {
+        "name": "Museum of Tolerance Parking Lot",
+        "address": "Hillel 33",
+        "id": 626,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Hillel 33",
+        "full_address": "Hillel 33, Jerusalem, Israel",
+        "original_id": 33977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2249100757418,
+          31.777341283715252
+        ]
+      },
+      "properties": {
+        "name": "Mamilla Parking Lot",
+        "address": "Yitzhak Kariv 6",
+        "id": 627,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Yitzhak Kariv 6",
+        "full_address": "Yitzhak Kariv 6, Jerusalem, Israel",
+        "original_id": 33978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21281430336758,
+          31.78040776294547
+        ]
+      },
+      "properties": {
+        "name": "Menorah Parking Lot",
+        "address": "Menorah 3",
+        "id": 628,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Menorah 3",
+        "full_address": "Menorah 3, Jerusalem, Israel",
+        "original_id": 33979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22397310008403,
+          31.78449857399372
+        ]
+      },
+      "properties": {
+        "name": "Ministry of Education Parking Lot",
+        "address": "Debora Hanevi'a 2",
+        "id": 629,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Debora Hanevi'a 2",
+        "full_address": "Debora Hanevi'a 2, Jerusalem, Israel",
+        "original_id": 33981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22492106277103,
+          31.77993978283809
+        ]
+      },
+      "properties": {
+        "name": "Safra Parking Lot",
+        "address": "Jaffa 26 /Shbetei Yisrael 7",
+        "id": 630,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Jaffa 26 /Shbetei Yisrael 7",
+        "full_address": "Jaffa 26 /Shbetei Yisrael 7, Jerusalem, Israel",
+        "original_id": 33982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20843918987339,
+          31.794966726893914
+        ]
+      },
+      "properties": {
+        "name": "Rav Shefa Parking Lot",
+        "address": "Shamgar 16",
+        "id": 631,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Shamgar 16",
+        "full_address": "Shamgar 16, Jerusalem, Israel",
+        "original_id": 33985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2157816492801,
+          31.781813737867314
+        ]
+      },
+      "properties": {
+        "name": "Rajuan Parking Lot",
+        "address": "Alias ​​6",
+        "id": 632,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Alias ​​6",
+        "full_address": "Alias ​​6, Jerusalem, Israel",
+        "original_id": 33986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21891563581359,
+          31.781422763496103
+        ]
+      },
+      "properties": {
+        "name": "Shamai 21 Parking Lot",
+        "address": "Shmai 21",
+        "id": 633,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Shmai 21",
+        "full_address": "Shmai 21, Jerusalem, Israel",
+        "original_id": 33988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21787461858919,
+          31.779397304590315
+        ]
+      },
+      "properties": {
+        "name": "Yerushalim Zahav",
+        "address": "Rabbi Akiva 14",
+        "id": 634,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Rabbi Akiva 14",
+        "full_address": "Rabbi Akiva 14, Jerusalem, Israel",
+        "original_id": 33990
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20910844928173,
+          31.75062443885658
+        ]
+      },
+      "properties": {
+        "name": "Lev Talpiot",
+        "address": "Ha'Uman 17",
+        "id": 635,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Ha'Uman 17",
+        "full_address": "Ha'Uman 17, Jerusalem, Israel",
+        "original_id": 33991
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21015058846051,
+          31.78752044447707
+        ]
+      },
+      "properties": {
+        "name": "Meuhedet",
+        "address": "Haturim 4",
+        "id": 636,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Haturim 4",
+        "full_address": "Haturim 4, Jerusalem, Israel",
+        "original_id": 33992
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21568540009222,
+          31.781451035075712
+        ]
+      },
+      "properties": {
+        "name": "City Tower",
+        "address": "Ben Yehuda 34",
+        "id": 637,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Ben Yehuda 34",
+        "full_address": "Ben Yehuda 34, Jerusalem, Israel",
+        "original_id": 33993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21797370509829,
+          31.779959182790243
+        ]
+      },
+      "properties": {
+        "name": "Jerusalem Towers",
+        "address": "Rabbi Akiva 6",
+        "id": 638,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Rabbi Akiva 6",
+        "full_address": "Rabbi Akiva 6, Jerusalem, Israel",
+        "original_id": 33994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2287387627705,
+          31.790028541779872
+        ]
+      },
+      "properties": {
+        "name": "Etz Hazait Hotel",
+        "address": "St. George 26",
+        "id": 639,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "St. George 26",
+        "full_address": "St. George 26, Jerusalem, Israel",
+        "original_id": 33995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21523358609901,
+          31.78267031342805
+        ]
+      },
+      "properties": {
+        "name": "Mesilat David",
+        "address": "Mesilat Yesharim 17",
+        "id": 640,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Mesilat Yesharim 17",
+        "full_address": "Mesilat Yesharim 17, Jerusalem, Israel",
+        "original_id": 33996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21461889160899,
+          31.75081853138816
+        ]
+      },
+      "properties": {
+        "name": "Moriah Area",
+        "address": "Hatunufa 17",
+        "id": 641,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Hatunufa 17",
+        "full_address": "Hatunufa 17, Jerusalem, Israel",
+        "original_id": 33997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21013558975252,
+          31.785399089197544
+        ]
+      },
+      "properties": {
+        "name": "Shukanyon",
+        "address": "Agrippas 88",
+        "id": 642,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Agrippas 88",
+        "full_address": "Agrippas 88, Jerusalem, Israel",
+        "original_id": 33998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.205325467035486,
+          31.78974972250061
+        ]
+      },
+      "properties": {
+        "name": "Shaarei Ha'ir",
+        "address": "Jaffa 216",
+        "id": 643,
+        "category": "Protected underground parking lots",
+        "category_number": 1,
+        "short_address": "Jaffa 216",
+        "full_address": "Jaffa 216, Jerusalem, Israel",
+        "original_id": 33999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22621432,
+          31.76537994
+        ]
+      },
+      "properties": {
+        "name": "678",
+        "address": "3 Nachshon St.",
+        "id": 644,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "3 Nachshon St.",
+        "full_address": "3 Nachshon St., Jerusalem, Israel",
+        "original_id": 50126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2189683,
+          31.75959347
+        ]
+      },
+      "properties": {
+        "name": "681",
+        "address": "8 Efrayim St.",
+        "id": 645,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "8 Efrayim St.",
+        "full_address": "8 Efrayim St., Jerusalem, Israel",
+        "original_id": 50127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2188286,
+          31.75951784
+        ]
+      },
+      "properties": {
+        "name": "682",
+        "address": "14 Reuven St.",
+        "id": 646,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "14 Reuven St.",
+        "full_address": "14 Reuven St., Jerusalem, Israel",
+        "original_id": 50128
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2235262,
+          31.76002206
+        ]
+      },
+      "properties": {
+        "name": "683",
+        "address": "54 Hebron Rd.",
+        "id": 647,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "54 Hebron Rd.",
+        "full_address": "54 Hebron Rd., Jerusalem, Israel",
+        "original_id": 50129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22264,
+          31.75875
+        ]
+      },
+      "properties": {
+        "name": "684",
+        "address": "6 Esther HaMalka St.",
+        "id": 648,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "6 Esther HaMalka St.",
+        "full_address": "6 Esther HaMalka St., Jerusalem, Israel",
+        "original_id": 50130
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22199465,
+          31.75722449
+        ]
+      },
+      "properties": {
+        "name": "685",
+        "address": "6 Mordechai HaYehudi St.",
+        "id": 649,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "6 Mordechai HaYehudi St.",
+        "full_address": "6 Mordechai HaYehudi St., Jerusalem, Israel",
+        "original_id": 50131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21989257,
+          31.75968621
+        ]
+      },
+      "properties": {
+        "name": "836",
+        "address": "27 Menashe St.",
+        "id": 650,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "27 Menashe St.",
+        "full_address": "27 Menashe St., Jerusalem, Israel",
+        "original_id": 50133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21700545,
+          31.7551778
+        ]
+      },
+      "properties": {
+        "name": "980",
+        "address": "22 ​Rivka St.",
+        "id": 651,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "22 ​Rivka St.",
+        "full_address": "22 ​Rivka St., Jerusalem, Israel",
+        "original_id": 50134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2212796,
+          31.76190746
+        ]
+      },
+      "properties": {
+        "name": "984",
+        "address": "11 Ya'el St.",
+        "id": 652,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "11 Ya'el St.",
+        "full_address": "11 Ya'el St., Jerusalem, Israel",
+        "original_id": 50135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.220897,
+          31.75755932
+        ]
+      },
+      "properties": {
+        "name": "995",
+        "address": "3 Levi St.",
+        "id": 653,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "3 Levi St.",
+        "full_address": "3 Levi St., Jerusalem, Israel",
+        "original_id": 50137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18298046,
+          31.76591212
+        ]
+      },
+      "properties": {
+        "name": "742",
+        "address": "7 Sha'arei Tora St.",
+        "id": 654,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "7 Sha'arei Tora St.",
+        "full_address": "7 Sha'arei Tora St., Jerusalem, Israel",
+        "original_id": 50138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18451955,
+          31.76926455
+        ]
+      },
+      "properties": {
+        "name": "743",
+        "address": "39 Bayit VaGan St.",
+        "id": 655,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "39 Bayit VaGan St.",
+        "full_address": "39 Bayit VaGan St., Jerusalem, Israel",
+        "original_id": 50139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19041839,
+          31.77512976
+        ]
+      },
+      "properties": {
+        "name": "744",
+        "address": "4 HaBanai St.",
+        "id": 656,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "4 HaBanai St.",
+        "full_address": "4 HaBanai St., Jerusalem, Israel",
+        "original_id": 50140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1922193,
+          31.7775352
+        ]
+      },
+      "properties": {
+        "name": "745",
+        "address": "30 HaBanai St.",
+        "id": 657,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "30 HaBanai St.",
+        "full_address": "30 HaBanai St., Jerusalem, Israel",
+        "original_id": 50141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.222439,
+          31.79243224
+        ]
+      },
+      "properties": {
+        "name": "613",
+        "address": "14 Shimshon Polanski St. ",
+        "id": 658,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "14 Shimshon Polanski St. ",
+        "full_address": "14 Shimshon Polanski St. , Jerusalem, Israel",
+        "original_id": 50142
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22382562,
+          31.78864072
+        ]
+      },
+      "properties": {
+        "name": "625",
+        "address": "22 Sha'arei Shamayim St.",
+        "id": 659,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "22 Sha'arei Shamayim St.",
+        "full_address": "22 Sha'arei Shamayim St., Jerusalem, Israel",
+        "original_id": 50144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22314848,
+          31.78938581
+        ]
+      },
+      "properties": {
+        "name": "626",
+        "address": "22 Baruch Rapaport St.",
+        "id": 660,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "22 Baruch Rapaport St.",
+        "full_address": "22 Baruch Rapaport St., Jerusalem, Israel",
+        "original_id": 50145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22414869,
+          31.78807146
+        ]
+      },
+      "properties": {
+        "name": "628",
+        "address": "8 Amelim St.",
+        "id": 661,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "8 Amelim St.",
+        "full_address": "8 Amelim St., Jerusalem, Israel",
+        "original_id": 50146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22139609,
+          31.79120318
+        ]
+      },
+      "properties": {
+        "name": "841",
+        "address": "25 Yoel St.",
+        "id": 662,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "25 Yoel St.",
+        "full_address": "25 Yoel St., Jerusalem, Israel",
+        "original_id": 50147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2232357,
+          31.79208743
+        ]
+      },
+      "properties": {
+        "name": "908",
+        "address": "22 Shimshon Polanski St.",
+        "id": 663,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "22 Shimshon Polanski St.",
+        "full_address": "22 Shimshon Polanski St., Jerusalem, Israel",
+        "original_id": 50148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21720827,
+          31.79392271
+        ]
+      },
+      "properties": {
+        "name": "608",
+        "address": "44 Adoniyahu HaCohen St.",
+        "id": 664,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "44 Adoniyahu HaCohen St.",
+        "full_address": "44 Adoniyahu HaCohen St., Jerusalem, Israel",
+        "original_id": 50149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2176755,
+          31.79229011
+        ]
+      },
+      "properties": {
+        "name": "609",
+        "address": "23 Yisa Bracha St.",
+        "id": 665,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "23 Yisa Bracha St.",
+        "full_address": "23 Yisa Bracha St., Jerusalem, Israel",
+        "original_id": 50150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21883589,
+          31.79259419
+        ]
+      },
+      "properties": {
+        "name": "610",
+        "address": "10 Aharon Fishel St.  ",
+        "id": 666,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "10 Aharon Fishel St.  ",
+        "full_address": "10 Aharon Fishel St.  , Jerusalem, Israel",
+        "original_id": 50151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22088474,
+          31.79316116
+        ]
+      },
+      "properties": {
+        "name": "611",
+        "address": "11 Ben Tsiyon Gol St.",
+        "id": 667,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "11 Ben Tsiyon Gol St.",
+        "full_address": "11 Ben Tsiyon Gol St., Jerusalem, Israel",
+        "original_id": 50152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22089024,
+          31.78987955
+        ]
+      },
+      "properties": {
+        "name": "612",
+        "address": "16 Yoel St.",
+        "id": 668,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "16 Yoel St.",
+        "full_address": "16 Yoel St., Jerusalem, Israel",
+        "original_id": 50153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21966951,
+          31.79120979
+        ]
+      },
+      "properties": {
+        "name": "620",
+        "address": "27 Yehezkhel St.",
+        "id": 669,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "27 Yehezkhel St.",
+        "full_address": "27 Yehezkhel St., Jerusalem, Israel",
+        "original_id": 50154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21486308,
+          31.79171933
+        ]
+      },
+      "properties": {
+        "name": "910",
+        "address": "Ovadya St 22",
+        "id": 670,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "Ovadya St 22",
+        "full_address": "Ovadya St 22, Jerusalem, Israel",
+        "original_id": 50155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21512951956394,
+          31.785705163311736
+        ]
+      },
+      "properties": {
+        "name": "639",
+        "address": "2 Michel Pines St.",
+        "id": 671,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "2 Michel Pines St.",
+        "full_address": "2 Michel Pines St., Jerusalem, Israel",
+        "original_id": 50156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22572662,
+          31.78412421
+        ]
+      },
+      "properties": {
+        "name": "652",
+        "address": "26 HaNevi'im St.",
+        "id": 672,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "26 HaNevi'im St.",
+        "full_address": "26 HaNevi'im St., Jerusalem, Israel",
+        "original_id": 50157
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21285728,
+          31.78310575
+        ]
+      },
+      "properties": {
+        "name": "932",
+        "address": "38 HaGilboa St.",
+        "id": 673,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "38 HaGilboa St.",
+        "full_address": "38 HaGilboa St., Jerusalem, Israel",
+        "original_id": 50158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21665559,
+          31.77791035
+        ]
+      },
+      "properties": {
+        "name": "973",
+        "address": "5 HaRav Aviyada St.",
+        "id": 674,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "5 HaRav Aviyada St.",
+        "full_address": "5 HaRav Aviyada St., Jerusalem, Israel",
+        "original_id": 50159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2147312,
+          31.779882942244104
+        ]
+      },
+      "properties": {
+        "name": "974",
+        "address": "9 Shmuel Hanagid St.",
+        "id": 675,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "9 Shmuel Hanagid St.",
+        "full_address": "9 Shmuel Hanagid St., Jerusalem, Israel",
+        "original_id": 50160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21869972,
+          31.78547133
+        ]
+      },
+      "properties": {
+        "name": "985",
+        "address": "13 Strauss St.",
+        "id": 676,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "13 Strauss St.",
+        "full_address": "13 Strauss St., Jerusalem, Israel",
+        "original_id": 50161
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16359315,
+          31.76842599
+        ]
+      },
+      "properties": {
+        "name": "903",
+        "address": "82 Homat HaTzalafim St.",
+        "id": 677,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "82 Homat HaTzalafim St.",
+        "full_address": "82 Homat HaTzalafim St., Jerusalem, Israel",
+        "original_id": 50162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21736907,
+          31.76506375
+        ]
+      },
+      "properties": {
+        "name": "672",
+        "address": "10 Ruth St.",
+        "id": 678,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "10 Ruth St.",
+        "full_address": "10 Ruth St., Jerusalem, Israel",
+        "original_id": 50163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21287922,
+          31.76565605
+        ]
+      },
+      "properties": {
+        "name": "670",
+        "address": "9 Bostanai St.",
+        "id": 679,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "9 Bostanai St.",
+        "full_address": "9 Bostanai St., Jerusalem, Israel",
+        "original_id": 50164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21629892,
+          31.78075326
+        ]
+      },
+      "properties": {
+        "name": "673",
+        "address": "3 Malal St.",
+        "id": 680,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "3 Malal St.",
+        "full_address": "3 Malal St., Jerusalem, Israel",
+        "original_id": 50165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.218209,
+          31.76617023
+        ]
+      },
+      "properties": {
+        "name": "674",
+        "address": "7 Bachar St.",
+        "id": 681,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "7 Bachar St.",
+        "full_address": "7 Bachar St., Jerusalem, Israel",
+        "original_id": 50166
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22099657,
+          31.76455263
+        ]
+      },
+      "properties": {
+        "name": "676",
+        "address": "6 Emile Zola St.",
+        "id": 682,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "6 Emile Zola St.",
+        "full_address": "6 Emile Zola St., Jerusalem, Israel",
+        "original_id": 50167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22126489,
+          31.76403005
+        ]
+      },
+      "properties": {
+        "name": "677",
+        "address": "6 Wyndham Deedes St.",
+        "id": 683,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "6 Wyndham Deedes St.",
+        "full_address": "6 Wyndham Deedes St., Jerusalem, Israel",
+        "original_id": 50168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21660961,
+          31.76146192
+        ]
+      },
+      "properties": {
+        "name": "692",
+        "address": "60 Emek Refaim St.",
+        "id": 684,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "60 Emek Refaim St.",
+        "full_address": "60 Emek Refaim St., Jerusalem, Israel",
+        "original_id": 50169
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21468592,
+          31.76274013
+        ]
+      },
+      "properties": {
+        "name": "693",
+        "address": "9 Yotam St.",
+        "id": 685,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "9 Yotam St.",
+        "full_address": "9 Yotam St., Jerusalem, Israel",
+        "original_id": 50170
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21523335,
+          31.76069919
+        ]
+      },
+      "properties": {
+        "name": "697",
+        "address": "27 Yehoshua Bin Nun St.",
+        "id": 686,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "27 Yehoshua Bin Nun St.",
+        "full_address": "27 Yehoshua Bin Nun St., Jerusalem, Israel",
+        "original_id": 50171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21965502,
+          31.76488511
+        ]
+      },
+      "properties": {
+        "name": "804",
+        "address": "8 HaMelits St.",
+        "id": 687,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "8 HaMelits St.",
+        "full_address": "8 HaMelits St., Jerusalem, Israel",
+        "original_id": 50172
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24163187,
+          31.80571068
+        ]
+      },
+      "properties": {
+        "name": "998",
+        "address": "6 Aba Berdichev St.",
+        "id": 688,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "6 Aba Berdichev St.",
+        "full_address": "6 Aba Berdichev St., Jerusalem, Israel",
+        "original_id": 50173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21522257,
+          31.76185848
+        ]
+      },
+      "properties": {
+        "name": "694",
+        "address": "1 Amatsiya St.  ",
+        "id": 689,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "1 Amatsiya St.  ",
+        "full_address": "1 Amatsiya St.  , Jerusalem, Israel",
+        "original_id": 50174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21556613,
+          31.76231446
+        ]
+      },
+      "properties": {
+        "name": "695",
+        "address": "2 Amatsiya St.",
+        "id": 690,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "2 Amatsiya St.",
+        "full_address": "2 Amatsiya St., Jerusalem, Israel",
+        "original_id": 50175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22168235,
+          31.79235363
+        ]
+      },
+      "properties": {
+        "name": "614",
+        "address": "16 Shlomo Musayof St.",
+        "id": 691,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "16 Shlomo Musayof St.",
+        "full_address": "16 Shlomo Musayof St., Jerusalem, Israel",
+        "original_id": 50176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2196259,
+          31.78971852
+        ]
+      },
+      "properties": {
+        "name": "621",
+        "address": "8 Hoshe'a St.",
+        "id": 692,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "8 Hoshe'a St.",
+        "full_address": "8 Hoshe'a St., Jerusalem, Israel",
+        "original_id": 50177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2217995,
+          31.78825462
+        ]
+      },
+      "properties": {
+        "name": "623",
+        "address": "14 Zechariah HaRofeh St. ",
+        "id": 693,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "14 Zechariah HaRofeh St. ",
+        "full_address": "14 Zechariah HaRofeh St. , Jerusalem, Israel",
+        "original_id": 50178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22103303,
+          31.78768692
+        ]
+      },
+      "properties": {
+        "name": "635",
+        "address": "15 Avodat Yisrael St.",
+        "id": 694,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "15 Avodat Yisrael St.",
+        "full_address": "15 Avodat Yisrael St., Jerusalem, Israel",
+        "original_id": 50179
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21997837,
+          31.7877374
+        ]
+      },
+      "properties": {
+        "name": "637",
+        "address": "18 Nahman MiBreslev St.",
+        "id": 695,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "18 Nahman MiBreslev St.",
+        "full_address": "18 Nahman MiBreslev St., Jerusalem, Israel",
+        "original_id": 50180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21721693,
+          31.7915136
+        ]
+      },
+      "properties": {
+        "name": "830",
+        "address": "25 Tsfanya St.",
+        "id": 696,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "25 Tsfanya St.",
+        "full_address": "25 Tsfanya St., Jerusalem, Israel",
+        "original_id": 50181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2112935,
+          31.79038842
+        ]
+      },
+      "properties": {
+        "name": "904",
+        "address": "7 HaZayit St.",
+        "id": 697,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "7 HaZayit St.",
+        "full_address": "7 HaZayit St., Jerusalem, Israel",
+        "original_id": 50182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20108822,
+          31.761363718452447
+        ]
+      },
+      "properties": {
+        "name": "715",
+        "address": "52 David Shimoni St.",
+        "id": 698,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "52 David Shimoni St.",
+        "full_address": "52 David Shimoni St., Jerusalem, Israel",
+        "original_id": 50183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20729202,
+          31.765473482943282
+        ]
+      },
+      "properties": {
+        "name": "949",
+        "address": "33 HaTayasim St.",
+        "id": 699,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "33 HaTayasim St.",
+        "full_address": "33 HaTayasim St., Jerusalem, Israel",
+        "original_id": 50184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19194561,
+          31.79066778
+        ]
+      },
+      "properties": {
+        "name": "808",
+        "address": "27 Yisrael Najara St.",
+        "id": 700,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "27 Yisrael Najara St.",
+        "full_address": "27 Yisrael Najara St., Jerusalem, Israel",
+        "original_id": 50185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20497305,
+          31.76535868
+        ]
+      },
+      "properties": {
+        "name": "700",
+        "address": "15 David Shimoni St.",
+        "id": 701,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "15 David Shimoni St.",
+        "full_address": "15 David Shimoni St., Jerusalem, Israel",
+        "original_id": 50186
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17212095,
+          31.75304368
+        ]
+      },
+      "properties": {
+        "name": "726",
+        "address": "123 HaNurit St.",
+        "id": 702,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "123 HaNurit St.",
+        "full_address": "123 HaNurit St., Jerusalem, Israel",
+        "original_id": 50187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17056825,
+          31.75457225
+        ]
+      },
+      "properties": {
+        "name": "727",
+        "address": "104 HaNurit St.",
+        "id": 703,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "104 HaNurit St.",
+        "full_address": "104 HaNurit St., Jerusalem, Israel",
+        "original_id": 50188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17017787,
+          31.754851
+        ]
+      },
+      "properties": {
+        "name": "728",
+        "address": "102 HaNurit St.",
+        "id": 704,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "102 HaNurit St.",
+        "full_address": "102 HaNurit St., Jerusalem, Israel",
+        "original_id": 50189
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.166039,
+          31.75350048
+        ]
+      },
+      "properties": {
+        "name": "829",
+        "address": "9 HaRakefet St.",
+        "id": 705,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "9 HaRakefet St.",
+        "full_address": "9 HaRakefet St., Jerusalem, Israel",
+        "original_id": 50190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16703205,
+          31.75303908
+        ]
+      },
+      "properties": {
+        "name": "840",
+        "address": "70 Costa Rica St.",
+        "id": 706,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "70 Costa Rica St.",
+        "full_address": "70 Costa Rica St., Jerusalem, Israel",
+        "original_id": 50191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16653153,
+          31.75927128
+        ]
+      },
+      "properties": {
+        "name": "901",
+        "address": "13 Iceland St ",
+        "id": 707,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "13 Iceland St ",
+        "full_address": "13 Iceland St , Jerusalem, Israel",
+        "original_id": 50192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16903666,
+          31.75487408
+        ]
+      },
+      "properties": {
+        "name": "902",
+        "address": "29 HaNurit St.",
+        "id": 708,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "29 HaNurit St.",
+        "full_address": "29 HaNurit St., Jerusalem, Israel",
+        "original_id": 50193
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21027869,
+          31.75751449
+        ]
+      },
+      "properties": {
+        "name": "663",
+        "address": "6 HaAmora'ïm St.",
+        "id": 709,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "6 HaAmora'ïm St.",
+        "full_address": "6 HaAmora'ïm St., Jerusalem, Israel",
+        "original_id": 50195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21313979,
+          31.75913637
+        ]
+      },
+      "properties": {
+        "name": "704",
+        "address": "5 Yohanan Ben Zakai St.",
+        "id": 710,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "5 Yohanan Ben Zakai St.",
+        "full_address": "5 Yohanan Ben Zakai St., Jerusalem, Israel",
+        "original_id": 50196
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21315052,
+          31.75909988
+        ]
+      },
+      "properties": {
+        "name": "704 A",
+        "address": "5 Yohanan ben Zakai St.",
+        "id": 711,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "5 Yohanan ben Zakai St.",
+        "full_address": "5 Yohanan ben Zakai St., Jerusalem, Israel",
+        "original_id": 50197
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21239611,
+          31.75835329
+        ]
+      },
+      "properties": {
+        "name": "705",
+        "address": "7 Ma'agalei Yavne St.",
+        "id": 712,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "7 Ma'agalei Yavne St.",
+        "full_address": "7 Ma'agalei Yavne St., Jerusalem, Israel",
+        "original_id": 50198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20973119,
+          31.75636218
+        ]
+      },
+      "properties": {
+        "name": "707",
+        "address": "22 Rashbag St.",
+        "id": 713,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "22 Rashbag St.",
+        "full_address": "22 Rashbag St., Jerusalem, Israel",
+        "original_id": 50199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20480865,
+          31.75758379
+        ]
+      },
+      "properties": {
+        "name": "709",
+        "address": "5 Ben Tabai St.",
+        "id": 714,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "5 Ben Tabai St.",
+        "full_address": "5 Ben Tabai St., Jerusalem, Israel",
+        "original_id": 50200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2046794,
+          31.75639741
+        ]
+      },
+      "properties": {
+        "name": "710",
+        "address": "70 Yohanan ben Zakai St.",
+        "id": 715,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "70 Yohanan ben Zakai St.",
+        "full_address": "70 Yohanan ben Zakai St., Jerusalem, Israel",
+        "original_id": 50201
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20017082,
+          31.75578266
+        ]
+      },
+      "properties": {
+        "name": "714",
+        "address": "3 Kana'ei HaGalil St.",
+        "id": 716,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "3 Kana'ei HaGalil St.",
+        "full_address": "3 Kana'ei HaGalil St., Jerusalem, Israel",
+        "original_id": 50202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19382965,
+          31.75450818
+        ]
+      },
+      "properties": {
+        "name": "718",
+        "address": "6 Rabbi Tzadok St.",
+        "id": 717,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "6 Rabbi Tzadok St.",
+        "full_address": "6 Rabbi Tzadok St., Jerusalem, Israel",
+        "original_id": 50203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19666642,
+          31.75640292
+        ]
+      },
+      "properties": {
+        "name": "755",
+        "address": "3 Dov Hoz St.",
+        "id": 718,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "3 Dov Hoz St.",
+        "full_address": "3 Dov Hoz St., Jerusalem, Israel",
+        "original_id": 50204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1946299,
+          31.75628558
+        ]
+      },
+      "properties": {
+        "name": "756",
+        "address": "1 San Martin St.",
+        "id": 719,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "1 San Martin St.",
+        "full_address": "1 San Martin St., Jerusalem, Israel",
+        "original_id": 50205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19787365,
+          31.75571857
+        ]
+      },
+      "properties": {
+        "name": "757",
+        "address": "5 HaShomer St.  ",
+        "id": 720,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "5 HaShomer St.  ",
+        "full_address": "5 HaShomer St.  , Jerusalem, Israel",
+        "original_id": 50206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21082471,
+          31.76235525
+        ]
+      },
+      "properties": {
+        "name": "805",
+        "address": "21 Yordei HaSira St.",
+        "id": 721,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "21 Yordei HaSira St.",
+        "full_address": "21 Yordei HaSira St., Jerusalem, Israel",
+        "original_id": 50207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21228161870976,
+          31.760739429922552
+        ]
+      },
+      "properties": {
+        "name": "817",
+        "address": "7 Yehoshua Ben Gamla St.",
+        "id": 722,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "7 Yehoshua Ben Gamla St.",
+        "full_address": "7 Yehoshua Ben Gamla St., Jerusalem, Israel",
+        "original_id": 50208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2086146,
+          31.7554334
+        ]
+      },
+      "properties": {
+        "name": "824",
+        "address": "31 Rashbag St.",
+        "id": 723,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "31 Rashbag St.",
+        "full_address": "31 Rashbag St., Jerusalem, Israel",
+        "original_id": 50209
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20166873,
+          31.75360963
+        ]
+      },
+      "properties": {
+        "name": "825",
+        "address": "24 Elazar Ben Yair St.  ",
+        "id": 724,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "24 Elazar Ben Yair St.  ",
+        "full_address": "24 Elazar Ben Yair St.  , Jerusalem, Israel",
+        "original_id": 50210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21328746,
+          31.75971235
+        ]
+      },
+      "properties": {
+        "name": "828",
+        "address": "10 HaRav Hasda St.",
+        "id": 725,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "10 HaRav Hasda St.",
+        "full_address": "10 HaRav Hasda St., Jerusalem, Israel",
+        "original_id": 50211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1954492,
+          31.7562636
+        ]
+      },
+      "properties": {
+        "name": "831",
+        "address": "7 Dov Hoz St.",
+        "id": 726,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "7 Dov Hoz St.",
+        "full_address": "7 Dov Hoz St., Jerusalem, Israel",
+        "original_id": 50212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19538627,
+          31.75311816
+        ]
+      },
+      "properties": {
+        "name": "842",
+        "address": "8 Bar Yochai St.",
+        "id": 727,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "8 Bar Yochai St.",
+        "full_address": "8 Bar Yochai St., Jerusalem, Israel",
+        "original_id": 50213
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19884543,
+          31.75430501
+        ]
+      },
+      "properties": {
+        "name": "906",
+        "address": "2 Bar Yochai St.",
+        "id": 728,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "2 Bar Yochai St.",
+        "full_address": "2 Bar Yochai St., Jerusalem, Israel",
+        "original_id": 50214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19636583,
+          31.75373649
+        ]
+      },
+      "properties": {
+        "name": "965",
+        "address": "7 Yitzhak Sadeh St.",
+        "id": 729,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "7 Yitzhak Sadeh St.",
+        "full_address": "7 Yitzhak Sadeh St., Jerusalem, Israel",
+        "original_id": 50215
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.209264,
+          31.75888667
+        ]
+      },
+      "properties": {
+        "name": "967",
+        "address": "7 Antignos St.",
+        "id": 730,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "7 Antignos St.",
+        "full_address": "7 Antignos St., Jerusalem, Israel",
+        "original_id": 50216
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20875076,
+          31.75687008
+        ]
+      },
+      "properties": {
+        "name": "969 - Eligible",
+        "address": "16 Yossi Ben Yo'ezer St.",
+        "id": 731,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "16 Yossi Ben Yo'ezer St.",
+        "full_address": "16 Yossi Ben Yo'ezer St., Jerusalem, Israel",
+        "original_id": 50217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19197755,
+          31.75536971
+        ]
+      },
+      "properties": {
+        "name": "976",
+        "address": "41 Avraham Elmaliach St.",
+        "id": 732,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "41 Avraham Elmaliach St.",
+        "full_address": "41 Avraham Elmaliach St., Jerusalem, Israel",
+        "original_id": 50218
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.192008203946784,
+          31.754341565568573
+        ]
+      },
+      "properties": {
+        "name": "981",
+        "address": "27 Avraham Elmaliach St.",
+        "id": 733,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "27 Avraham Elmaliach St.",
+        "full_address": "27 Avraham Elmaliach St., Jerusalem, Israel",
+        "original_id": 50219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20898060394658,
+          31.759226774112687
+        ]
+      },
+      "properties": {
+        "name": "987",
+        "address": "38 Yohanan Ben Zakai St.",
+        "id": 734,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "38 Yohanan Ben Zakai St.",
+        "full_address": "38 Yohanan Ben Zakai St., Jerusalem, Israel",
+        "original_id": 50220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17732316161951,
+          31.755479951365427
+        ]
+      },
+      "properties": {
+        "name": "721",
+        "address": "29 Uruguay St.",
+        "id": 735,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "29 Uruguay St.",
+        "full_address": "29 Uruguay St., Jerusalem, Israel",
+        "original_id": 50221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17666523278302,
+          31.756374674113907
+        ]
+      },
+      "properties": {
+        "name": "722",
+        "address": "67 Avraham Stern St.",
+        "id": 736,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "67 Avraham Stern St.",
+        "full_address": "67 Avraham Stern St., Jerusalem, Israel",
+        "original_id": 50222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17664425,
+          31.75424528
+        ]
+      },
+      "properties": {
+        "name": "723",
+        "address": "51 Avraham Stern St.",
+        "id": 737,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "51 Avraham Stern St.",
+        "full_address": "51 Avraham Stern St., Jerusalem, Israel",
+        "original_id": 50223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17758566,
+          31.75837336
+        ]
+      },
+      "properties": {
+        "name": "724",
+        "address": "9 Volta Ilit St.",
+        "id": 738,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "9 Volta Ilit St.",
+        "full_address": "9 Volta Ilit St., Jerusalem, Israel",
+        "original_id": 50224
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1704658,
+          31.76074271
+        ]
+      },
+      "properties": {
+        "name": "736",
+        "address": "8 Chile St.",
+        "id": 739,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "8 Chile St.",
+        "full_address": "8 Chile St., Jerusalem, Israel",
+        "original_id": 50225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1720983,
+          31.76016281
+        ]
+      },
+      "properties": {
+        "name": "737",
+        "address": "32 Janus Korczak St.",
+        "id": 740,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "32 Janus Korczak St.",
+        "full_address": "32 Janus Korczak St., Jerusalem, Israel",
+        "original_id": 50226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17317009,
+          31.76217764
+        ]
+      },
+      "properties": {
+        "name": "738",
+        "address": "78 Anielewicz St.",
+        "id": 741,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "78 Anielewicz St.",
+        "full_address": "78 Anielewicz St., Jerusalem, Israel",
+        "original_id": 50227
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17604607,
+          31.76613405
+        ]
+      },
+      "properties": {
+        "name": "739",
+        "address": "3 Schmorak St.",
+        "id": 742,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "3 Schmorak St.",
+        "full_address": "3 Schmorak St., Jerusalem, Israel",
+        "original_id": 50228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17828942,
+          31.76717025
+        ]
+      },
+      "properties": {
+        "name": "740",
+        "address": "7 Yisrael Zangvil St.",
+        "id": 743,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "7 Yisrael Zangvil St.",
+        "full_address": "7 Yisrael Zangvil St., Jerusalem, Israel",
+        "original_id": 50229
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17830100394625,
+          31.767223582079748
+        ]
+      },
+      "properties": {
+        "name": "741",
+        "address": "5 Yisrael Zangvill St.",
+        "id": 744,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "5 Yisrael Zangvill St.",
+        "full_address": "5 Yisrael Zangvill St., Jerusalem, Israel",
+        "original_id": 50230
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17712367325539,
+          31.759254741248913
+        ]
+      },
+      "properties": {
+        "name": "814",
+        "address": "3 Volta Ilit St.",
+        "id": 745,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "3 Volta Ilit St.",
+        "full_address": "3 Volta Ilit St., Jerusalem, Israel",
+        "original_id": 50231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17712367325539,
+          31.759254741248913
+        ]
+      },
+      "properties": {
+        "name": "814 A",
+        "address": "3 Volta Ilit St.",
+        "id": 746,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "3 Volta Ilit St.",
+        "full_address": "3 Volta Ilit St., Jerusalem, Israel",
+        "original_id": 50232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1752983,
+          31.76531568
+        ]
+      },
+      "properties": {
+        "name": "815",
+        "address": "2 Aharon Rabinovich St.",
+        "id": 747,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "2 Aharon Rabinovich St.",
+        "full_address": "2 Aharon Rabinovich St., Jerusalem, Israel",
+        "original_id": 50233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1752983,
+          31.76531568
+        ]
+      },
+      "properties": {
+        "name": "815 A",
+        "address": "2 Aharon Rabinovich St.",
+        "id": 748,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "2 Aharon Rabinovich St.",
+        "full_address": "2 Aharon Rabinovich St., Jerusalem, Israel",
+        "original_id": 50234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1745476,
+          31.76095623
+        ]
+      },
+      "properties": {
+        "name": "947",
+        "address": "17 Sireni St.",
+        "id": 749,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "17 Sireni St.",
+        "full_address": "17 Sireni St., Jerusalem, Israel",
+        "original_id": 50235
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17732240394631,
+          31.765835839299733
+        ]
+      },
+      "properties": {
+        "name": "963",
+        "address": "11 Yisrael Zangvill St.",
+        "id": 750,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "11 Yisrael Zangvill St.",
+        "full_address": "11 Yisrael Zangvill St., Jerusalem, Israel",
+        "original_id": 50236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.176021603946715,
+          31.757286074113505
+        ]
+      },
+      "properties": {
+        "name": "964",
+        "address": "8 Meir Grunwald St.",
+        "id": 751,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "8 Meir Grunwald St.",
+        "full_address": "8 Meir Grunwald St., Jerusalem, Israel",
+        "original_id": 50237
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.177038619291835,
+          31.766576860739093
+        ]
+      },
+      "properties": {
+        "name": "983",
+        "address": "10 Gordon St.",
+        "id": 752,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "10 Gordon St.",
+        "full_address": "10 Gordon St., Jerusalem, Israel",
+        "original_id": 50238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17748120394628,
+          31.76325667411079
+        ]
+      },
+      "properties": {
+        "name": "992",
+        "address": "19 Etinger St.",
+        "id": 753,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "19 Etinger St.",
+        "full_address": "19 Etinger St., Jerusalem, Israel",
+        "original_id": 50240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1746754,
+          31.76409128
+        ]
+      },
+      "properties": {
+        "name": "993",
+        "address": "3 Kleinman St.",
+        "id": 754,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "3 Kleinman St.",
+        "full_address": "3 Kleinman St., Jerusalem, Israel",
+        "original_id": 50241
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1658768,
+          31.75615742
+        ]
+      },
+      "properties": {
+        "name": "729",
+        "address": "7 Dahomey St.",
+        "id": 755,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "7 Dahomey St.",
+        "full_address": "7 Dahomey St., Jerusalem, Israel",
+        "original_id": 50242
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16679340394644,
+          31.75827574153875
+        ]
+      },
+      "properties": {
+        "name": "730",
+        "address": "3 Dahomey St.",
+        "id": 756,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "3 Dahomey St.",
+        "full_address": "3 Dahomey St., Jerusalem, Israel",
+        "original_id": 50243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17093104,
+          31.75258226
+        ]
+      },
+      "properties": {
+        "name": "731",
+        "address": "16 Colombia St.",
+        "id": 757,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "16 Colombia St.",
+        "full_address": "16 Colombia St., Jerusalem, Israel",
+        "original_id": 50244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17037417,
+          31.75469212
+        ]
+      },
+      "properties": {
+        "name": "732",
+        "address": "7 Colombia St.",
+        "id": 758,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "7 Colombia St.",
+        "full_address": "7 Colombia St., Jerusalem, Israel",
+        "original_id": 50245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16537727,
+          31.75967074
+        ]
+      },
+      "properties": {
+        "name": "734",
+        "address": "17 Iceland St.",
+        "id": 759,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "17 Iceland St.",
+        "full_address": "17 Iceland St., Jerusalem, Israel",
+        "original_id": 50246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16537727,
+          31.75967074
+        ]
+      },
+      "properties": {
+        "name": "734 A",
+        "address": "17 Iceland St.",
+        "id": 760,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "17 Iceland St.",
+        "full_address": "17 Iceland St., Jerusalem, Israel",
+        "original_id": 50247
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.166911617437314,
+          31.75954196351599
+        ]
+      },
+      "properties": {
+        "name": "803",
+        "address": "17 Henrietta Szold St.",
+        "id": 761,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "17 Henrietta Szold St.",
+        "full_address": "17 Henrietta Szold St., Jerusalem, Israel",
+        "original_id": 50248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16878,
+          31.75898
+        ]
+      },
+      "properties": {
+        "name": "827",
+        "address": "4 Mexico St.",
+        "id": 762,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "4 Mexico St.",
+        "full_address": "4 Mexico St., Jerusalem, Israel",
+        "original_id": 50249
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19554033,
+          31.78803628
+        ]
+      },
+      "properties": {
+        "name": "748",
+        "address": "2 Ha'ilui St.    ",
+        "id": 763,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "2 Ha'ilui St.    ",
+        "full_address": "2 Ha'ilui St.    , Jerusalem, Israel",
+        "original_id": 50250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1973343,
+          31.78641411
+        ]
+      },
+      "properties": {
+        "name": "977",
+        "address": "23 Gat St.",
+        "id": 764,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "23 Gat St.",
+        "full_address": "23 Gat St., Jerusalem, Israel",
+        "original_id": 50251
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.195550088599845,
+          31.787537495752257
+        ]
+      },
+      "properties": {
+        "name": "978",
+        "address": "13 HaRav Tzvi Yehuda St.",
+        "id": 765,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "13 HaRav Tzvi Yehuda St.",
+        "full_address": "13 HaRav Tzvi Yehuda St., Jerusalem, Israel",
+        "original_id": 50252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.211043932782616,
+          31.767487095675378
+        ]
+      },
+      "properties": {
+        "name": "667",
+        "address": "22 HaPalmach St.",
+        "id": 766,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "22 HaPalmach St.",
+        "full_address": "22 HaPalmach St., Jerusalem, Israel",
+        "original_id": 50253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21030692,
+          31.76809927410867
+        ]
+      },
+      "properties": {
+        "name": "668",
+        "address": "15 HaRav Brodi St.",
+        "id": 767,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "15 HaRav Brodi St.",
+        "full_address": "15 HaRav Brodi St., Jerusalem, Israel",
+        "original_id": 50254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.212020503946185,
+          31.76784826023723
+        ]
+      },
+      "properties": {
+        "name": "971",
+        "address": "16 HaPalmach St.",
+        "id": 768,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "16 HaPalmach St.",
+        "full_address": "16 HaPalmach St., Jerusalem, Israel",
+        "original_id": 50255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.171552,
+          31.75252344
+        ]
+      },
+      "properties": {
+        "name": "726 B",
+        "address": "125 HaNurit St.",
+        "id": 769,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "125 HaNurit St.",
+        "full_address": "125 HaNurit St., Jerusalem, Israel",
+        "original_id": 50256
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17106527,
+          31.75270968
+        ]
+      },
+      "properties": {
+        "name": "726 A",
+        "address": "124 HaNurit St.",
+        "id": 770,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "124 HaNurit St.",
+        "full_address": "124 HaNurit St., Jerusalem, Israel",
+        "original_id": 50257
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21048843,
+          31.78618111
+        ]
+      },
+      "properties": {
+        "name": "646",
+        "address": "4 Eliyahu Mani St.",
+        "id": 771,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "4 Eliyahu Mani St.",
+        "full_address": "4 Eliyahu Mani St., Jerusalem, Israel",
+        "original_id": 50258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20939807,
+          31.78336583
+        ]
+      },
+      "properties": {
+        "name": "648",
+        "address": "15 Nahar Prat St.",
+        "id": 772,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "15 Nahar Prat St.",
+        "full_address": "15 Nahar Prat St., Jerusalem, Israel",
+        "original_id": 50259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2136024,
+          31.78299762
+        ]
+      },
+      "properties": {
+        "name": "821",
+        "address": "24 Einayim LaMishpat St.",
+        "id": 773,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "24 Einayim LaMishpat St.",
+        "full_address": "24 Einayim LaMishpat St., Jerusalem, Israel",
+        "original_id": 50260
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21055875,
+          31.7827654
+        ]
+      },
+      "properties": {
+        "name": "935",
+        "address": "28 Be'er Sheva St.",
+        "id": 774,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "28 Be'er Sheva St.",
+        "full_address": "28 Be'er Sheva St., Jerusalem, Israel",
+        "original_id": 50261
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21112847,
+          31.78076286
+        ]
+      },
+      "properties": {
+        "name": "961",
+        "address": "17 Even Sapir St.",
+        "id": 775,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "17 Even Sapir St.",
+        "full_address": "17 Even Sapir St., Jerusalem, Israel",
+        "original_id": 50262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1832669,
+          31.7556061
+        ]
+      },
+      "properties": {
+        "name": "813",
+        "address": "7 Kdoshei Struma St.",
+        "id": 776,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "7 Kdoshei Struma St.",
+        "full_address": "7 Kdoshei Struma St., Jerusalem, Israel",
+        "original_id": 50263
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22459891,
+          31.78581751
+        ]
+      },
+      "properties": {
+        "name": "632",
+        "address": "87 Me'a She'arim St.",
+        "id": 777,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "87 Me'a She'arim St.",
+        "full_address": "87 Me'a She'arim St., Jerusalem, Israel",
+        "original_id": 50265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2253953,
+          31.78649294
+        ]
+      },
+      "properties": {
+        "name": "826",
+        "address": "6 Otsar HaSfarim St.",
+        "id": 778,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "6 Otsar HaSfarim St.",
+        "full_address": "6 Otsar HaSfarim St., Jerusalem, Israel",
+        "original_id": 50266
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21424313,
+          31.78927688
+        ]
+      },
+      "properties": {
+        "name": "641",
+        "address": "25 Kfar Nahum St.",
+        "id": 779,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "25 Kfar Nahum St.",
+        "full_address": "25 Kfar Nahum St., Jerusalem, Israel",
+        "original_id": 50267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21083998,
+          31.79060663
+        ]
+      },
+      "properties": {
+        "name": "643",
+        "address": "73 Malkei Israel St.",
+        "id": 780,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "73 Malkei Israel St.",
+        "full_address": "73 Malkei Israel St., Jerusalem, Israel",
+        "original_id": 50268
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.207423347544406,
+          31.788901763360464
+        ]
+      },
+      "properties": {
+        "name": "812",
+        "address": "109 Rashi St.",
+        "id": 781,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "109 Rashi St.",
+        "full_address": "109 Rashi St., Jerusalem, Israel",
+        "original_id": 50270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16634432,
+          31.78743779
+        ]
+      },
+      "properties": {
+        "name": "839",
+        "address": "14 Tashbatz St.",
+        "id": 782,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "14 Tashbatz St.",
+        "full_address": "14 Tashbatz St., Jerusalem, Israel",
+        "original_id": 50271
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.209420974531916,
+          31.788772024648548
+        ]
+      },
+      "properties": {
+        "name": "909",
+        "address": "7 Yehuda HaMaccabi St.",
+        "id": 783,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "7 Yehuda HaMaccabi St.",
+        "full_address": "7 Yehuda HaMaccabi St., Jerusalem, Israel",
+        "original_id": 50272
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22658907,
+          31.78238694
+        ]
+      },
+      "properties": {
+        "name": "653",
+        "address": "3 Mishmarot St.",
+        "id": 784,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "3 Mishmarot St.",
+        "full_address": "3 Mishmarot St., Jerusalem, Israel",
+        "original_id": 50274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22640406779709,
+          31.783101414895757
+        ]
+      },
+      "properties": {
+        "name": "751",
+        "address": "10 HaAyin Het St.",
+        "id": 785,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "10 HaAyin Het St.",
+        "full_address": "10 HaAyin Het St., Jerusalem, Israel",
+        "original_id": 50275
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22675128802577,
+          31.781545038473322
+        ]
+      },
+      "properties": {
+        "name": "752",
+        "address": "21 HaAyin Het St.",
+        "id": 786,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "21 HaAyin Het St.",
+        "full_address": "21 HaAyin Het St., Jerusalem, Israel",
+        "original_id": 50276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2270983,
+          31.78579592
+        ]
+      },
+      "properties": {
+        "name": "753",
+        "address": "16 Kheil HaHandasa St.",
+        "id": 787,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "16 Kheil HaHandasa St.",
+        "full_address": "16 Kheil HaHandasa St., Jerusalem, Israel",
+        "original_id": 50277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21119735,
+          31.77968218
+        ]
+      },
+      "properties": {
+        "name": "657",
+        "address": "21 Tsfat St.",
+        "id": 788,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "21 Tsfat St.",
+        "full_address": "21 Tsfat St., Jerusalem, Israel",
+        "original_id": 50278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20100356,
+          31.77218105
+        ]
+      },
+      "properties": {
+        "name": "939",
+        "address": "17 Neve Sha'anan St.",
+        "id": 789,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "17 Neve Sha'anan St.",
+        "full_address": "17 Neve Sha'anan St., Jerusalem, Israel",
+        "original_id": 50279
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20885859,
+          31.76639437
+        ]
+      },
+      "properties": {
+        "name": "669",
+        "address": "42 HaPalmach St.",
+        "id": 790,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "42 HaPalmach St.",
+        "full_address": "42 HaPalmach St., Jerusalem, Israel",
+        "original_id": 50280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21380394627346,
+          31.766167065640484
+        ]
+      },
+      "properties": {
+        "name": "671",
+        "address": "22 Kaf Tet BeNovember St.",
+        "id": 791,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "22 Kaf Tet BeNovember St.",
+        "full_address": "22 Kaf Tet BeNovember St., Jerusalem, Israel",
+        "original_id": 50281
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21325687,
+          31.76129246
+        ]
+      },
+      "properties": {
+        "name": "696",
+        "address": "3 Reish Lakish St.",
+        "id": 792,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "3 Reish Lakish St.",
+        "full_address": "3 Reish Lakish St., Jerusalem, Israel",
+        "original_id": 50282
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20753835,
+          31.75967715
+        ]
+      },
+      "properties": {
+        "name": "702",
+        "address": "12 Halafta St.",
+        "id": 793,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "12 Halafta St.",
+        "full_address": "12 Halafta St., Jerusalem, Israel",
+        "original_id": 50283
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20489024,
+          31.7563287
+        ]
+      },
+      "properties": {
+        "name": "703",
+        "address": "53 Yohanan Ben Zakai St.",
+        "id": 794,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "53 Yohanan Ben Zakai St.",
+        "full_address": "53 Yohanan Ben Zakai St., Jerusalem, Israel",
+        "original_id": 50284
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20969289,
+          31.76174784
+        ]
+      },
+      "properties": {
+        "name": "937",
+        "address": "38 Hizkiyahu HaMelech St.",
+        "id": 795,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "38 Hizkiyahu HaMelech St.",
+        "full_address": "38 Hizkiyahu HaMelech St., Jerusalem, Israel",
+        "original_id": 50286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21411710394585,
+          31.775601398716745
+        ]
+      },
+      "properties": {
+        "name": "658",
+        "address": "13 Ibn Ezra St.",
+        "id": 796,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "13 Ibn Ezra St.",
+        "full_address": "13 Ibn Ezra St., Jerusalem, Israel",
+        "original_id": 50287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2153943174367,
+          31.775111057369614
+        ]
+      },
+      "properties": {
+        "name": "659",
+        "address": "15 Ibn Gabirol St.",
+        "id": 797,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "15 Ibn Gabirol St.",
+        "full_address": "15 Ibn Gabirol St., Jerusalem, Israel",
+        "original_id": 50288
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2107287751096,
+          31.77325643710173
+        ]
+      },
+      "properties": {
+        "name": "809",
+        "address": "9 Rashba St.",
+        "id": 798,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "9 Rashba St.",
+        "full_address": "9 Rashba St., Jerusalem, Israel",
+        "original_id": 50289
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21668807,
+          31.77326342
+        ]
+      },
+      "properties": {
+        "name": "810",
+        "address": "9 Ovadia MeBartenora St.",
+        "id": 799,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "9 Ovadia MeBartenora St.",
+        "full_address": "9 Ovadia MeBartenora St., Jerusalem, Israel",
+        "original_id": 50290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.212385994916545,
+          31.771603263030787
+        ]
+      },
+      "properties": {
+        "name": "816",
+        "address": "50 Azza St.",
+        "id": 800,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "50 Azza St.",
+        "full_address": "50 Azza St., Jerusalem, Israel",
+        "original_id": 50291
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21589868860039,
+          31.772262658494302
+        ]
+      },
+      "properties": {
+        "name": "835",
+        "address": "18 Arlozorov St.",
+        "id": 801,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "18 Arlozorov St.",
+        "full_address": "18 Arlozorov St., Jerusalem, Israel",
+        "original_id": 50292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2142244,
+          31.776280894804234
+        ]
+      },
+      "properties": {
+        "name": "972",
+        "address": "26 AlHarizi St.",
+        "id": 802,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "26 AlHarizi St.",
+        "full_address": "26 AlHarizi St., Jerusalem, Israel",
+        "original_id": 50293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21447234627226,
+          31.795624849266986
+        ]
+      },
+      "properties": {
+        "name": "606",
+        "address": "1 Pnina St.",
+        "id": 803,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "1 Pnina St.",
+        "full_address": "1 Pnina St., Jerusalem, Israel",
+        "original_id": 50294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20083957,
+          31.79611804
+        ]
+      },
+      "properties": {
+        "name": "750",
+        "address": "5 Zichron Ya'akov St.",
+        "id": 804,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "5 Zichron Ya'akov St.",
+        "full_address": "5 Zichron Ya'akov St., Jerusalem, Israel",
+        "original_id": 50295
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1991455,
+          31.79601192
+        ]
+      },
+      "properties": {
+        "name": "933",
+        "address": "38 HaMem Gimel St.",
+        "id": 805,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "38 HaMem Gimel St.",
+        "full_address": "38 HaMem Gimel St., Jerusalem, Israel",
+        "original_id": 50296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20174810394518,
+          31.79447697409672
+        ]
+      },
+      "properties": {
+        "name": "975 A",
+        "address": "15 Zichron Ya'akov St.",
+        "id": 806,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "15 Zichron Ya'akov St.",
+        "full_address": "15 Zichron Ya'akov St., Jerusalem, Israel",
+        "original_id": 50297
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20202255,
+          31.794225449819965
+        ]
+      },
+      "properties": {
+        "name": "975 B",
+        "address": "17 Zichron Ya'akov St.",
+        "id": 807,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "17 Zichron Ya'akov St.",
+        "full_address": "17 Zichron Ya'akov St., Jerusalem, Israel",
+        "original_id": 50298
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20219001743596,
+          31.793954774097028
+        ]
+      },
+      "properties": {
+        "name": "975 C",
+        "address": "19 Zichron Ya'akov St.",
+        "id": 808,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "19 Zichron Ya'akov St.",
+        "full_address": "19 Zichron Ya'akov St., Jerusalem, Israel",
+        "original_id": 50299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.202196975108805,
+          31.793535512093083
+        ]
+      },
+      "properties": {
+        "name": "975 D",
+        "address": "21 Zichron Ya'akov St.",
+        "id": 809,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "21 Zichron Ya'akov St.",
+        "full_address": "21 Zichron Ya'akov St., Jerusalem, Israel",
+        "original_id": 50300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.201082732781515,
+          31.795073817564752
+        ]
+      },
+      "properties": {
+        "name": "979",
+        "address": "10 Zichron Ya'akov St.",
+        "id": 810,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "10 Zichron Ya'akov St.",
+        "full_address": "10 Zichron Ya'akov St., Jerusalem, Israel",
+        "original_id": 50301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22139324,
+          31.8103973
+        ]
+      },
+      "properties": {
+        "name": "601",
+        "address": "1 Gan Sanhedrin St.",
+        "id": 811,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "1 Gan Sanhedrin St.",
+        "full_address": "1 Gan Sanhedrin St., Jerusalem, Israel",
+        "original_id": 50302
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21872527,
+          31.79755634
+        ]
+      },
+      "properties": {
+        "name": "602",
+        "address": "6 HaSanhedrin St.",
+        "id": 812,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "6 HaSanhedrin St.",
+        "full_address": "6 HaSanhedrin St., Jerusalem, Israel",
+        "original_id": 50303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22001809,
+          31.79759097409532
+        ]
+      },
+      "properties": {
+        "name": "603",
+        "address": "10 HaRav Bloy St.",
+        "id": 813,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "10 HaRav Bloy St.",
+        "full_address": "10 HaRav Bloy St., Jerusalem, Israel",
+        "original_id": 50304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2188737,
+          31.795412149351016
+        ]
+      },
+      "properties": {
+        "name": "604",
+        "address": "8 Shimon Hacham St.",
+        "id": 814,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "8 Shimon Hacham St.",
+        "full_address": "8 Shimon Hacham St., Jerusalem, Israel",
+        "original_id": 50305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21941769,
+          31.79570251
+        ]
+      },
+      "properties": {
+        "name": "605",
+        "address": "2 Bar Ilan St.",
+        "id": 815,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "2 Bar Ilan St.",
+        "full_address": "2 Bar Ilan St., Jerusalem, Israel",
+        "original_id": 50306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22309569,
+          31.79249233140142
+        ]
+      },
+      "properties": {
+        "name": "616",
+        "address": "61 Shmuel Hanavi St.",
+        "id": 816,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "61 Shmuel Hanavi St.",
+        "full_address": "61 Shmuel Hanavi St., Jerusalem, Israel",
+        "original_id": 50307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2250634,
+          31.79051837
+        ]
+      },
+      "properties": {
+        "name": "617",
+        "address": "3 Gmul St.",
+        "id": 817,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "3 Gmul St.",
+        "full_address": "3 Gmul St., Jerusalem, Israel",
+        "original_id": 50308
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22315682,
+          31.792860731292258
+        ]
+      },
+      "properties": {
+        "name": "618",
+        "address": "66 Shmuel HaNavi St.",
+        "id": 818,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "66 Shmuel HaNavi St.",
+        "full_address": "66 Shmuel HaNavi St., Jerusalem, Israel",
+        "original_id": 50309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2189116,
+          31.79461696855955
+        ]
+      },
+      "properties": {
+        "name": "957",
+        "address": "19 Avinadav St.",
+        "id": 819,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "19 Avinadav St.",
+        "full_address": "19 Avinadav St., Jerusalem, Israel",
+        "original_id": 50310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2195315,
+          31.77406146
+        ]
+      },
+      "properties": {
+        "name": "656",
+        "address": "19 Keren HaYesod St.",
+        "id": 820,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "19 Keren HaYesod St.",
+        "full_address": "19 Keren HaYesod St., Jerusalem, Israel",
+        "original_id": 50312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21700218,
+          31.77014346
+        ]
+      },
+      "properties": {
+        "name": "807",
+        "address": "7 Benjamin Disraeli St.",
+        "id": 821,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "7 Benjamin Disraeli St.",
+        "full_address": "7 Benjamin Disraeli St., Jerusalem, Israel",
+        "original_id": 50313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2256433,
+          31.763436661978776
+        ]
+      },
+      "properties": {
+        "name": "679",
+        "address": "59 Hebron Rd.",
+        "id": 822,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "59 Hebron Rd.",
+        "full_address": "59 Hebron Rd., Jerusalem, Israel",
+        "original_id": 50314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22182315,
+          31.752546089319623
+        ]
+      },
+      "properties": {
+        "name": "688",
+        "address": "18 Efrata St.",
+        "id": 823,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "18 Efrata St.",
+        "full_address": "18 Efrata St., Jerusalem, Israel",
+        "original_id": 50315
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2200234,
+          31.749094780609962
+        ]
+      },
+      "properties": {
+        "name": "689",
+        "address": "10 Ben Gavriel St.",
+        "id": 824,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "10 Ben Gavriel St.",
+        "full_address": "10 Ben Gavriel St., Jerusalem, Israel",
+        "original_id": 50316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2234383,
+          31.74919744
+        ]
+      },
+      "properties": {
+        "name": "690",
+        "address": "1 Leib Yaffe St., jerusalem",
+        "id": 825,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "1 Leib Yaffe St., jerusalem",
+        "full_address": "1 Leib Yaffe St., jerusalem, Jerusalem, Israel",
+        "original_id": 50317
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21891075,
+          31.752087774115857
+        ]
+      },
+      "properties": {
+        "name": "691",
+        "address": "93 Bethlehem Rd.",
+        "id": 826,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "93 Bethlehem Rd.",
+        "full_address": "93 Bethlehem Rd., Jerusalem, Israel",
+        "original_id": 50318
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22008993,
+          31.751198866808615
+        ]
+      },
+      "properties": {
+        "name": "940",
+        "address": "17 Shalom Yehuda St.",
+        "id": 827,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "17 Shalom Yehuda St.",
+        "full_address": "17 Shalom Yehuda St., Jerusalem, Israel",
+        "original_id": 50319
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21757937,
+          31.78741269
+        ]
+      },
+      "properties": {
+        "name": "928",
+        "address": "8 Pri Hadash St.",
+        "id": 828,
+        "category": "Public shelters",
+        "category_number": 2,
+        "short_address": "8 Pri Hadash St.",
+        "full_address": "8 Pri Hadash St., Jerusalem, Israel",
+        "original_id": 50320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1776219598942,
+          31.76321873501009
+        ]
+      },
+      "properties": {
+        "name": "Agron School",
+        "address": "29 Zangvil St.",
+        "id": 829,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "29 Zangvil St.",
+        "full_address": "29 Zangvil St., Jerusalem, Israel",
+        "original_id": 32483
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20716196102939,
+          31.757972091937397
+        ]
+      },
+      "properties": {
+        "name": "Alma Arts High School",
+        "address": "33 Yochanan Ben Zakkai St.",
+        "id": 830,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "33 Yochanan Ben Zakkai St.",
+        "full_address": "33 Yochanan Ben Zakkai St., Jerusalem, Israel",
+        "original_id": 32484
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.215559951583955,
+          31.766417036898186
+        ]
+      },
+      "properties": {
+        "name": "Beit Hazayar School",
+        "address": "15 November 29 St.",
+        "id": 831,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "15 November 29 St.",
+        "full_address": "15 November 29 St., Jerusalem, Israel",
+        "original_id": 32485
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21889877452208,
+          31.81003976075607
+        ]
+      },
+      "properties": {
+        "name": "Beit Yaakov School - Ramat Shlomo",
+        "address": "62 Hazon Ish St.",
+        "id": 832,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "62 Hazon Ish St.",
+        "full_address": "62 Hazon Ish St., Jerusalem, Israel",
+        "original_id": 32486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.209913880028324,
+          31.781061857208574
+        ]
+      },
+      "properties": {
+        "name": "Dugma School",
+        "address": "20 HaRav Yosef Kapach St.",
+        "id": 833,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "20 HaRav Yosef Kapach St.",
+        "full_address": "20 HaRav Yosef Kapach St., Jerusalem, Israel",
+        "original_id": 32487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21727487452393,
+          31.757902124506
+        ]
+      },
+      "properties": {
+        "name": "Efrata School protected space (\"mamad\")",
+        "address": "31 Yehuda St.",
+        "id": 834,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "31 Yehuda St.",
+        "full_address": "31 Yehuda St., Jerusalem, Israel",
+        "original_id": 32488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21234516605884,
+          31.778995208701513
+        ]
+      },
+      "properties": {
+        "name": "Evelina de Rothschild High School",
+        "address": "38 Menachem Usishikin St.",
+        "id": 835,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "38 Menachem Usishikin St.",
+        "full_address": "38 Menachem Usishikin St., Jerusalem, Israel",
+        "original_id": 32489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2097681450683,
+          31.770494182467868
+        ]
+      },
+      "properties": {
+        "name": "Evelina de Rothschild School",
+        "address": "15 Ben Labrat St.",
+        "id": 836,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "15 Ben Labrat St.",
+        "full_address": "15 Ben Labrat St., Jerusalem, Israel",
+        "original_id": 32490
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1936430610294,
+          31.754732853595478
+        ]
+      },
+      "properties": {
+        "name": "Givat Gonen High School",
+        "address": "12 Ravi Tzadok St.",
+        "id": 837,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "12 Ravi Tzadok St.",
+        "full_address": "12 Ravi Tzadok St., Jerusalem, Israel",
+        "original_id": 32491
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20143931540969,
+          31.758299691542305
+        ]
+      },
+      "properties": {
+        "name": "Gonenim School",
+        "address": "21 Horkanya St.",
+        "id": 838,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "21 Horkanya St.",
+        "full_address": "21 Horkanya St., Jerusalem, Israel",
+        "original_id": 32492
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16426852637654,
+          31.758140419230703
+        ]
+      },
+      "properties": {
+        "name": "Guatemala School",
+        "address": "10 HaHartzit St.",
+        "id": 839,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "10 HaHartzit St.",
+        "full_address": "10 HaHartzit St., Jerusalem, Israel",
+        "original_id": 32493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.199508474524045,
+          31.751395483674717
+        ]
+      },
+      "properties": {
+        "name": "Hand in Hand School",
+        "address": "7 Arieh Beham St.",
+        "id": 840,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "7 Arieh Beham St.",
+        "full_address": "7 Arieh Beham St., Jerusalem, Israel",
+        "original_id": 32494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.171293888017445,
+          31.783613893826544
+        ]
+      },
+      "properties": {
+        "name": "Har Nof School for Girls",
+        "address": "46 Hai Taieb St.",
+        "id": 841,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "46 Hai Taieb St.",
+        "full_address": "46 Hai Taieb St., Jerusalem, Israel",
+        "original_id": 32495
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.237943923246874,
+          31.749275554510238
+        ]
+      },
+      "properties": {
+        "name": "Hillel Nissui School",
+        "address": "1 Kedoshei Babel St.",
+        "id": 842,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "1 Kedoshei Babel St.",
+        "full_address": "1 Kedoshei Babel St., Jerusalem, Israel",
+        "original_id": 32496
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19834810151255,
+          31.753716878640976
+        ]
+      },
+      "properties": {
+        "name": "Kedma School",
+        "address": "5 Bar Yochai St.",
+        "id": 843,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "5 Bar Yochai St.",
+        "full_address": "5 Bar Yochai St., Jerusalem, Israel",
+        "original_id": 32497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20509440674426,
+          31.763437859089613
+        ]
+      },
+      "properties": {
+        "name": "Luria School",
+        "address": "14 Yisrael Aharoni St.",
+        "id": 844,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "14 Yisrael Aharoni St.",
+        "full_address": "14 Yisrael Aharoni St., Jerusalem, Israel",
+        "original_id": 32498
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19440994808236,
+          31.780792800846783
+        ]
+      },
+      "properties": {
+        "name": "Mamad Dror School",
+        "address": "19 Shahar St.",
+        "id": 845,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "19 Shahar St.",
+        "full_address": "19 Shahar St., Jerusalem, Israel",
+        "original_id": 32499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19058774163736,
+          31.819486223067116
+        ]
+      },
+      "properties": {
+        "name": "Mamad Harel School",
+        "address": "30 Avraham Idelzon St.",
+        "id": 846,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "30 Avraham Idelzon St.",
+        "full_address": "30 Avraham Idelzon St., Jerusalem, Israel",
+        "original_id": 32500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.196747978136436,
+          31.78891220827891
+        ]
+      },
+      "properties": {
+        "name": "Meor HaTorah School",
+        "address": "7 Ben Tzion St.",
+        "id": 847,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "7 Ben Tzion St.",
+        "full_address": "7 Ben Tzion St., Jerusalem, Israel",
+        "original_id": 32501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19150001685247,
+          31.78941098177791
+        ]
+      },
+      "properties": {
+        "name": "Noam School for Boys",
+        "address": "32 Haim Vital St.",
+        "id": 848,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "32 Haim Vital St.",
+        "full_address": "32 Haim Vital St., Jerusalem, Israel",
+        "original_id": 32502
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19272208135689,
+          31.784511897851257
+        ]
+      },
+      "properties": {
+        "name": "Noam School for Girls",
+        "address": "3 Bazel St.",
+        "id": 849,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "3 Bazel St.",
+        "full_address": "3 Bazel St., Jerusalem, Israel",
+        "original_id": 32503
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.25252554568693,
+          31.815499210855556
+        ]
+      },
+      "properties": {
+        "name": "Noam School for Girls - Pisgat Ze'ev",
+        "address": "47 Yosef Nedva St.",
+        "id": 850,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "47 Yosef Nedva St.",
+        "full_address": "47 Yosef Nedva St., Jerusalem, Israel",
+        "original_id": 32504
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21726414568874,
+          31.757938614541686
+        ]
+      },
+      "properties": {
+        "name": "Pelech High School for Girls",
+        "address": "31 Yehuda St.",
+        "id": 851,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "31 Yehuda St.",
+        "full_address": "31 Yehuda St., Jerusalem, Israel",
+        "original_id": 32505
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17275889572469,
+          31.7526328701386
+        ]
+      },
+      "properties": {
+        "name": "Tal Haim School",
+        "address": "18 HaNurit St.",
+        "id": 852,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "18 HaNurit St.",
+        "full_address": "18 HaNurit St., Jerusalem, Israel",
+        "original_id": 32506
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.190328502442235,
+          31.789392343596056
+        ]
+      },
+      "properties": {
+        "name": "Talmud Torah Morasha",
+        "address": "52 Shlomo Alkabetz St.",
+        "id": 853,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "52 Shlomo Alkabetz St.",
+        "full_address": "52 Shlomo Alkabetz St., Jerusalem, Israel",
+        "original_id": 32507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.237264507590396,
+          31.820540434075568
+        ]
+      },
+      "properties": {
+        "name": "West Pisgat Zeev School",
+        "address": "74 Shmuel Tamir St.",
+        "id": 854,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "74 Shmuel Tamir St.",
+        "full_address": "74 Shmuel Tamir St., Jerusalem, Israel",
+        "original_id": 32508
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19477427636922,
+          31.784729689846337
+        ]
+      },
+      "properties": {
+        "name": "Yashlatz Yeshiva for Youth",
+        "address": "7 Kosovsky St.",
+        "id": 855,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "7 Kosovsky St.",
+        "full_address": "7 Kosovsky St., Jerusalem, Israel",
+        "original_id": 32509
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18647901543972,
+          31.77954259145598
+        ]
+      },
+      "properties": {
+        "name": "Yefe Nof School",
+        "address": "5 HaTomer St.",
+        "id": 856,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "5 HaTomer St.",
+        "full_address": "5 HaTomer St., Jerusalem, Israel",
+        "original_id": 32510
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1906084726767,
+          31.78211509689336
+        ]
+      },
+      "properties": {
+        "name": "Yisraeli Beit HaKerem School",
+        "address": "7 Ma'agal Beit HaMidrash St.",
+        "id": 857,
+        "category": "Public shelters at schools",
+        "category_number": 3,
+        "short_address": "7 Ma'agal Beit HaMidrash St.",
+        "full_address": "7 Ma'agal Beit HaMidrash St., Jerusalem, Israel",
+        "original_id": 32511
+      }
+    }
+  ]
+}

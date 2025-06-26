@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mapFragment">
+
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.jlmshelter.app.ui.MapFragment"
+        android:label="Map"
+        tools:layout="@layout/fragment_map">
+        <action
+            android:id="@+id/action_mapFragment_to_shelterListFragment"
+            app:destination="@id/shelterListFragment" />
+        <action
+            android:id="@+id/action_mapFragment_to_aboutFragment"
+            app:destination="@id/aboutFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/shelterListFragment"
+        android:name="com.jlmshelter.app.ui.ShelterListFragment"
+        android:label="Nearest Shelters"
+        tools:layout="@layout/fragment_shelter_list">
+        <action
+            android:id="@+id/action_shelterListFragment_to_mapFragment"
+            app:destination="@id/mapFragment"
+            app:popUpTo="@id/mapFragment"
+            app:popUpToInclusive="true" />
+        <argument
+            android:name="userLatitude"
+            app:argType="float" />
+        <argument
+            android:name="userLongitude"
+            app:argType="float" />
+        <action
+            android:id="@+id/action_shelterListFragment_to_aboutFragment"
+            app:destination="@id/aboutFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.jlmshelter.app.ui.AboutFragment"
+        android:label="@string/about"
+        tools:layout="@layout/fragment_about" />
+</navigation>

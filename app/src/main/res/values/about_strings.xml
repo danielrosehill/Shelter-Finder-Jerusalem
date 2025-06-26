@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- About page strings -->
+    <string name="about">About</string>
+    <string name="about_title">Jerusalem Public Shelters Dataset (June 2025 - Non-Official)</string>
+    <string name="disclaimer_title">⚠️ Disclaimer ⚠️</string>
+    <string name="disclaimer_text">While efforts have been made to ensure accuracy, this dataset should not be considered an official source. In emergency situations, always follow instructions from local authorities.</string>
+    <string name="overview_title">Overview</string>
+    <string name="overview_text">This app contains a list of public shelters in Jerusalem, Israel. The data was collected on June 19, 2025, from the Jerusalem Municipality\'s public records. This information is being shared to help those in need locate safe shelter during emergencies.</string>
+    <string name="data_source_title">Data Source</string>
+    <string name="data_source_text">This is an open source project. The data and source code are available at: https://github.com/danielrosehill/Jerusalem-Shelters-0625</string>
+    <string name="last_updated_title">Last Updated</string>
+    <string name="last_updated_text">June 19, 2025</string>
+    <string name="license_title">License</string>
+    <string name="license_text">This data is shared under an open license to promote public safety and welfare.</string>
+</resources>
